@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "言葉にするには",
+  "base_artist": "sabio",
+  "createdAt": "2026-03-03T09:05:01.495313Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言葉にするには (feat. 重音テト & 宮舞モカ)",
+      "artist": "sabio",
+      "has_synced": false,
+      "path": "select/pl_01_言葉にするには_(feat._重音テト_&_宮舞モカ)_sabio.txt"
+    }
+  ]
+}
